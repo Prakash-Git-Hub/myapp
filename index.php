@@ -1,5 +1,5 @@
 <html>
- <body background="bgimage.jpeg">
+ <body background="logo.jpg" bgcolor="#333333">
   <h1> Version 2.0 <h1>
   <h2> Sample PHP App <h2>
   <h2> Deployed with Capistrano <h2>

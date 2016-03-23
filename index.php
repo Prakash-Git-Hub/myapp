@@ -5,6 +5,7 @@
   <h2> Deployed with Capistrano <h2>
     <?php
     echo "<h4>Current date and time => " . date("r") . "</h4>";
+    <img src="/root/learn/git/myapp/logo.jpeg" width="280" height="125" title="Logo of a company" alt="Logo of our company" />
     ?>
     </body>
 </html>

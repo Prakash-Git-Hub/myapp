@@ -1,5 +1,5 @@
 <html>
- <body bgcolor="#00FF00">
+ <body bgcolor="#FA5882">
   <h1> Version 2.0 <h1>
   <h2> Sample PHP App <h2>
   <h2> Deployed with Capistrano <h2>
